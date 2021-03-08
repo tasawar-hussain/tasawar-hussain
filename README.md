@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ReactJS
-- 🌱 I’m currently get more comfortable with Python
+- 🌱 I’m currently getting more comfortable with Python
 - 👯 I’m looking to collaborate on Javscript
 - 💬 Ask me about ReactJS, Ruby on Rails and Mathametics
 - 📫 How to reach me: metasawarhussain@gmail.com
