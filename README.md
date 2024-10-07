@@ -27,7 +27,7 @@
 ### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=tasawar-hussain&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Random Dev Quote
 <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/>
 
 ---
