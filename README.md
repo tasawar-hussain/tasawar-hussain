@@ -1,5 +1,5 @@
 # 💫 About Me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://visitcount.itsvg.in/api?id=tasawar-hussain&icon=9&color=2)](https://visitcount.itsvg.in)<br>
-🔭 I’m currently working on ReactJS<br>🌱 I’m currently getting more comfortable with Python<br>👯 I’m looking to collaborate on Javscript<br>💬 Ask me about ReactJS, Python, Ruby on Rails and Mathametics<br>⚡ Favourite Quote: Its better to be excellent and be the victim of jealousy than to be ordinary and be the subject to sympathy.
+🔭 I’m currently working on ReactJS<br>🌱 I’m currently getting more comfortable with Python<br>👯 I’m looking to collaborate on Javscript<br>💬 Ask me about ReactJS, Python, Ruby on Rails and Mathametics<br>⚡ Favourite Quote: Its better to be excellent and be the victim of jealousy than to be ordinary and be subject to sympathy.
 
 <table align="center">
  <th> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"/> Connect with me  :</th>
@@ -28,7 +28,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=tasawar-hussain&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/>
 
 ---
 
